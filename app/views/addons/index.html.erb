@@ -1,0 +1,11 @@
+<h1>AddOns</h1>
+<div id="addons">
+    <% @addons.each do |addon| %>
+        <div>
+        <a href="/addons/<%= addon.id %>">
+            <%= addon.name %>
+        </a>
+        </div>
+    <% end %>
+</div>
+#<p>Find me in app/views/add_ons/index.html.erb</p>
