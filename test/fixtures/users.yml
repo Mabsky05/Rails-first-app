@@ -8,12 +8,12 @@
 #   email_address: two@example.com
 #   password_digest: <%= password_digest %>
 
-david: 
-  product: tshirt
-  email: david@example.org
+# david: 
+#   product: tshirt
+#   email: david@example.org
 
-chris:
-  product: tshirt
-  email: chris@example.org
+# chris:
+#   product: tshirt
+#   email: chris@example.org
 
 
